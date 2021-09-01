@@ -1,0 +1,8 @@
+﻿# === [LocEditor:RedundantFile] File contains no active keys, does not exist in English, could be deleted ===
+
+# l_russian:
+#  Moved key `VIKING_ARMY_MEN_NAME` to `game/localization/russian/dlc/fp1/dlc_fp1_wars_l_russian.yml`
+#  Moved key `VIKING_ARMY_WOMEN_NAME` to `game/localization/russian/dlc/fp1/dlc_fp1_wars_l_russian.yml`
+#  Moved key `VIKING_ARMY_NEUTRAL_NAME` to `game/localization/russian/dlc/fp1/dlc_fp1_wars_l_russian.yml`
+#  Moved key `scandi_adventurer_event_troops` to `game/localization/russian/dlc/fp1/dlc_fp1_wars_l_russian.yml`
+#  Moved key `fp1_scandi_adventurer_conquest` to `game/localization/russian/dlc/fp1/dlc_fp1_wars_l_russian.yml`

@@ -1,0 +1,472 @@
+﻿    #Earth Empire
+    e_earth = {
+        color = { 75 0 130 }
+
+    #Tooth Kingdom
+        k_tooth = {
+            capital = c_tooth_god
+            color = { 255 0 0 }
+            
+            d_extreme_south = {
+               color = { 238 75 43 }
+               capital = c_tooth_wide
+
+               c_tooth_wisdom = {
+                   color = { 136 8 8 }
+                   color2 = { 255 255 255 }
+   
+                   b_tooth_wisdom1 = {
+                       color = { 136 8 8 }
+                       color2 = { 255 255 255 }
+                       province = 10
+                   }
+                   b_tooth_wisdom2 = {
+                       color = { 136 8 8 }
+                       color2 = { 255 255 255 }
+                       province = 11
+                   }
+
+               }
+               c_tooth_wide = {
+                   color = { 174 74 68 }
+                   color2 = { 255 255 255 }
+   
+                   b_tooth_wide1 = {
+                       color = { 174 74 68 }
+                       color2 = { 255 255 255 }
+                       province = 12
+                   }
+
+
+               }               
+            }
+
+            d_white_heart = {
+               color = { 165 42 42 }
+               capital = c_tooth_health
+
+               c_tooth_ilnes = {
+                   color = { 128 0 32 }
+                   color2 = { 255 255 255 }
+   
+                   b_tooth_ilnes1 = {
+                       color = { 128 0 32 }
+                       color2 = { 255 255 255 }
+                       province = 13
+                   }
+                   b_tooth_ilnes2 = {
+                       color = { 128 0 32 }
+                       color2 = { 255 255 255 }
+                       province = 14
+                   }
+
+               }
+               c_tooth_health = {
+                   color = { 110 38 14 }
+                   color2 = { 255 255 255 }
+   
+                   b_tooth_health1 = {
+                       color = { 110 38 14 }
+                       color2 = { 255 255 255 }
+                       province = 15
+                   }
+                   b_tooth_health2 = {
+                       color = { 110 38 14 }
+                       color2 = { 255 255 255 }
+                       province = 16
+                   }
+
+               }
+               c_tooth_crooked = {
+                   color = { 204 85 0 }
+                   color2 = { 255 255 255 }
+   
+                   b_tooth_crooked1 = {
+                       color = { 204 85 0 }
+                       color2 = { 255 255 255 }
+                       province = 17
+                   }
+                   b_tooth_crooked2 = {
+                       color = { 204 85 0 }
+                       color2 = { 255 255 255 }
+                       province = 18
+                   }
+
+               }
+            }
+
+            d_pilogenez = {
+               color = { 233 116 81 }
+               capital = c_tooth_nine
+
+               c_tooth_corrupted = {
+                   color = { 112 41 99 }
+                   color2 = { 255 255 255 }
+   
+                   b_tooth_corrupted1 = {
+                       color = { 112 41 99 }
+                       color2 = { 255 255 255 }
+                       province = 19
+                   }
+                   b_tooth_corrupted2 = {
+                       color = { 112 41 99 }
+                       color2 = { 255 255 255 }
+                       province = 20
+                   }
+                   b_tooth_corrupted3 = {
+                       color = { 112 41 99 }
+                       color2 = { 255 255 255 }
+                       province = 21
+                   }
+
+               }
+               c_tooth_nine = {
+                   color = { 210 43 43 }
+                   color2 = { 255 255 255 }
+   
+                   b_tooth_nine1  = {
+                       color = { 210 43 43 }
+                       color2 = { 255 255 255 }
+                       province = 22
+                   }
+                   b_tooth_nine2  = {
+                       color = { 210 43 43 }
+                       color2 = { 255 255 255 }
+                       province = 23
+                   }
+                   b_tooth_nine3 = {
+                       color = { 210 43 43 }
+                       color2 = { 255 255 255 }
+                       province = 24
+                   }
+
+               }
+              
+            }
+            d_necklace = {
+               color = { 196 30 58 }
+               capital = c_tooth_god
+
+               c_tooth_coast = {
+                   color = { 215 0 64 }
+                   color2 = { 255 255 255 }
+   
+                   b_tooth_coast1 = {
+                       color = { 215 0 64 }
+                       color2 = { 255 255 255 }
+                       province = 25
+                   }
+                   b_tooth_coast2 = {
+                       color = { 215 0 64 }
+                       color2 = { 255 255 255 }
+                       province = 26
+                   }
+                   b_tooth_coast3 = {
+                       color = { 215 0 64 }
+                       color2 = { 255 255 255 }
+                       province = 27
+                   }
+
+               }
+               c_tooth_anger = {
+                   color = { 222 49 99 }
+                   color2 = { 255 255 255 }
+   
+                   b_tooth_anger1  = {
+                       color = { 222 49 99 }
+                       color2 = { 255 255 255 }
+                       province = 28
+                   }
+                   b_tooth_anger2  = {
+                       color = { 222 49 99 }
+                       color2 = { 255 255 255 }
+                       province = 29
+                   }
+                   b_tooth_anger3 = {
+                       color = { 222 49 99 }
+                       color2 = { 255 255 255 }
+                       province = 30
+                   }
+
+               }
+
+               c_tooth_god = {
+                   color = { 210 4 45 }
+                   color2 = { 255 255 255 }
+   
+                   b_tooth_god1 = {
+                       color = { 210 4 45 }
+                       color2 = { 255 255 255 }
+                       province = 31
+                   }
+                   b_tooth_god2 = {
+                       color = { 210 4 45 }
+                       color2 = { 255 255 255 }
+                       province = 32
+                   }
+                   b_tooth_god3 = {
+                       color = { 210 4 45 }
+                       color2 = { 255 255 255 }
+                       province = 33
+                   }
+                   b_tooth_god4 = {
+                       color = { 210 4 45 }
+                       color2 = { 255 255 255 }
+                       province = 34
+                   }
+
+               }
+              
+            }
+        }
+
+    #Scientific Island
+            d_immortal = {
+               color = { 148 0 211 }
+               color2 = { 255 255 255 }
+               capital = c_east_council
+   
+               c_north_council = {
+                   color = { 153 50 204 }
+                   color2 = { 255 255 255 }
+   
+                   b_north_council1 = {
+                       color = { 153 50 204 }
+                       color2 = { 255 255 255 }
+                       province = 1
+                   }
+                   b_north_council2 = {
+                       color = { 153 50 204 }
+                       color2 = { 255 255 255 }
+                       province = 2
+                   }
+                   b_north_council3 = {
+                       color = { 153 50 204 }
+                       color2 = { 255 255 255 }
+                       province = 3
+                   }
+               }
+               c_west_council = {
+                   color = { 255 0 255 }
+                   color2 = { 255 255 255 }
+   
+                   b_west_council1 = {
+                       color = { 255 0 255 }
+                       color2 = { 255 255 255 }
+                       province = 4
+                   }
+                   b_west_council2 = {
+                       color = { 255 0 255 }
+                       color2 = { 255 255 255 }
+                       province = 6
+                   }
+
+               }
+               c_east_council = {
+                   color = { 148 0 211 }
+                   color2 = { 255 255 255 }
+   
+
+                   b_east_council1 = {
+                       color = { 148 0 211 }
+                       color2 = { 255 255 255 }
+                       province = 5
+                   }
+                   b_east_council2 = {
+                       color = { 148 0 211 }
+                       color2 = { 255 255 255 }
+                       province = 7
+                   }
+               }
+               c_south_council = {
+                   color = { 128 0 128 }
+                   color2 = { 255 255 255 }
+   
+
+                   b_south_council1 = {
+                       color = { 128 0 128 }
+                       color2 = { 255 255 255 }
+                       province = 8
+                   }
+                   b_south_council2 = {
+                       color = { 128 0 128 }
+                       color2 = { 255 255 255 }
+                       province = 9
+                   }
+               }
+           }
+    #Magic Region
+        k_magic = {
+            color = { 70 130 180 }
+
+            d_scythe = {
+               color = { 100 149 237 }
+               capital = c_tooth_wide
+
+               c_marble = {
+                   color = { 0 191 255 }
+                   color2 = { 255 255 255 }
+   
+                   b_marble1 = {
+                       color = { 0 191 255 }
+                       color2 = { 255 255 255 }
+                       province = 35
+                   }
+                   b_marble2 = {
+                       color = { 0 191 255 }
+                       color2 = { 255 255 255 }
+                       province = 36
+                   }
+
+               }
+               c_obelisk_kvor = {
+                   color = { 30 144 255 }
+                   color2 = { 255 255 255 }
+   
+                   b_obelisk_kvor1 = {
+                       color = { 30 144 255 }
+                       color2 = { 255 255 255 }
+                       province = 37
+                   }
+
+
+               } 
+               c_spire = {
+                   color = { 173 216 230 }
+                   color2 = { 255 255 255 }
+   
+                   b_spire1 = {
+                       color = { 173 216 230 }
+                       color2 = { 255 255 255 }
+                       province = 38
+                   }
+                   b_spire2 = {
+                       color = { 173 216 230 }
+                       color2 = { 255 255 255 }
+                       province = 39
+                   }
+
+               }
+
+            }
+
+            d_obsidian_tower = {
+               color = { 135 206 250 }
+               capital = c_talking_stone
+
+               c_talking_stone = {
+                   color = { 25 25 112 }
+                   color2 = { 255 255 255 }
+   
+                   b_talking_stone1 = {
+                       color = { 25 25 112 }
+                       color2 = { 255 255 255 }
+                       province = 40
+                   }
+                   b_talking_stone2 = {
+                       color = { 25 25 112 }
+                       color2 = { 255 255 255 }
+                       province = 41
+                   }
+                   b_talking_stone3 = {
+                       color = { 25 25 112 }
+                       color2 = { 255 255 255 }
+                       province = 42
+                   }
+
+               }
+
+               c_rukon = {
+                   color = { 0 0 128 }
+                   color2 = { 255 255 255 }
+   
+                   b_rukon1 = {
+                       color = { 0 0 128 }
+                       color2 = { 255 255 255 }
+                       province = 43
+                   }
+                   b_rukon2 = {
+                       color = { 0 0 128 }
+                       color2 = { 255 255 255 }
+                       province = 44
+                   }
+
+               }
+               c_ajaxum = {
+                   color = { 0 0 139 }
+                   color2 = { 255 255 255 }
+   
+                   b_ajaxum1 = {
+                       color = { 0 0 139 }
+                       color2 = { 255 255 255 }
+                       province = 45
+                   }
+                   b_ajaxum2 = {
+                       color = { 0 0 139 }
+                       color2 = { 255 255 255 }
+                       province = 46
+                   }
+
+               }
+
+            }
+
+            d_seventh_phase = {
+               color = { 0 0 205 }
+               capital = c_god_view
+
+               c_boost = {
+                   color = { 0 0 255 }
+                   color2 = { 255 255 255 }
+   
+                   b_boost1 = {
+                       color = { 0 0 255 }
+                       color2 = { 255 255 255 }
+                       province = 47
+                   }
+                   b_boost2 = {
+                       color = { 0 0 255 }
+                       color2 = { 255 255 255 }
+                       province = 48
+                   }
+
+
+               }
+
+               c_pressure = {
+                   color = { 65 105 225 }
+                   color2 = { 255 255 255 }
+   
+                   b_pressure1 = {
+                       color = { 65 105 225 }
+                       color2 = { 255 255 255 }
+                       province = 49
+                   }
+                   b_pressure2 = {
+                       color = { 65 105 225 }
+                       color2 = { 255 255 255 }
+                       province = 50
+                   }
+
+               }
+               c_god_view = {
+                   color = { 138 43 226 }
+                   color2 = { 255 255 255 }
+   
+                   b_god_view1 = {
+                       color = { 138 43 226 }
+                       color2 = { 255 255 255 }
+                       province = 51
+                   }
+                   b_god_view2 = {
+                       color = { 138 43 226 }
+                       color2 = { 255 255 255 }
+                       province = 52
+                   }
+
+               }
+
+            }
+
+    }
+    }
