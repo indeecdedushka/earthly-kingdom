@@ -1,0 +1,8 @@
+d_duchy_tier = {
+900.1.1 = {
+holder = 500200
+}}
+c_county_tier1 = {
+900.1.1 = {
+holder = 500200
+}}

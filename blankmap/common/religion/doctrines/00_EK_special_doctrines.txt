@@ -1,0 +1,15 @@
+﻿########################################
+########### SPECIAL DOCTRNES ###########
+########################################
+dead_god_special = {
+	group = "special"
+	is_available_on_create = {
+		has_doctrine = dead_god_special
+	}
+
+	special_doctrine_dead_god = {
+		parameters = {
+			# hostility_override_special_doctrine_full_tolerance = 0
+		}
+	}
+}

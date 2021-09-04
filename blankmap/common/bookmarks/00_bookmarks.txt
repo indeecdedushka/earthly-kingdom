@@ -1,0 +1,13 @@
+﻿bm_2000_test = {
+	start_date = 1000.1.1
+	is_playable = yes
+
+	character = {
+		name = "durak"
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 500200
+		position = { 765 590 }
+
+		animation = disapproval
+	}
+}

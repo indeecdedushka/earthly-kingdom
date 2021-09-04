@@ -1,0 +1,221 @@
+﻿eisen_group = {
+	graphical_cultures = {
+		norse_unit_gfx
+		western_coa_gfx
+		western_building_gfx
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+		northern_unit_gfx
+		norse_building_gfx
+	}
+
+	eisen = {
+		graphical_cultures = {
+			norse_coa_gfx
+		}
+
+		color = { 0.3 0.55 0.8 }
+
+		# character_modifier = {
+		# 	ai_war_chance = 1
+		# 	ai_war_cooldown = -0.5
+		# }
+
+		cadet_dynasty_names = {
+			"dynn_Mikli"
+			"dynn_SmiD_r"
+			"dynn_MO_ring"
+			"dynn_GA_rdske2"
+			"dynn_Haarde"
+			"dynn_A_sbrning"
+			"dynn_Oddaverjar"
+			"dynn_Ormslev"
+			"dynn_Gnarr"
+			"dynn_Holmsen"
+			"dynn_Benkestokk"
+			"dynn_Handingmann"
+			"dynn_Aspa"
+			"dynn_Aurland"
+			"dynn_BjarkO_y"
+			"dynn_Asdal"
+			"dynn_Hudfat"
+			"dynn_HA_rd"
+			"dynn_Kane"
+			"dynn_Losna"
+			"dynn_Ringnes"
+			"dynn_Semeleng"
+			"dynn_SpA_nheim"
+			"dynn_Gjesling"
+			"dynn_Sudrheim"
+			"dynn_SkA_ld"
+			"dynn_Viss"
+			"dynn_T_rymr"
+			"dynn_T_vari"
+			"dynn_O_lfU_ss"
+			"dynn_O_rn"
+			"dynn_HvI_ti"
+			"dynn_Sterki"
+			"dynn_AuD_gi"
+			"dynn_RauD_i"
+			"dynn_Spaki"
+			"dynn_Svarti"
+			"dynn_Rammi"
+			"dynn_MjO_vi"
+			"dynn_RI_ki"
+			"dynn_Lambi"
+			"dynn_Skarfr"
+			"dynn_SkA_l"
+			"dynn_Sleggja"
+			"dynn_SmjO_r"
+			"dynn_Stjarna"
+			"dynn_StrU_gr"
+			"dynn_SA_lendingr"
+			"dynn_SU_rr"
+			"dynn_SA_lingr"
+			"dynn_Trausti"
+			"dynn_VeD_r"
+			"dynn_VA_mU_li"
+			"dynn_VA_ni"
+			"dynn_T_istill"
+			"dynn_T_jO_fi"
+			"dynn_Erik"
+			"dynn_Horn"
+			"dynn_Bjering"
+			"dynn_RothE_n"
+			"dynn_LA_ma"
+			"dynn_Rumby"
+			"dynn_DjA_kn"
+			"dynn_SvA_rd"
+			"dynn_Sturlung"
+			"dynn_SvI_nfelling"
+			"dynn_VatnsfirD_ing"
+			"dynn_Galen"
+			"dynn_Vogelius"
+			"dynn_Brock"
+			"dynn_Banner"
+			"dynn_Thott"
+			"dynn_Botner"
+			"dynn_Darre"
+			"dynn_Egge"
+			"dynn_Kusse"
+			"dynn_Grand"
+		}
+
+		dynasty_names = {
+			"dynn_Mikli"
+			"dynn_SmiD_r"
+			"dynn_MO_ring"
+			"dynn_GA_rdske2"
+			"dynn_Haarde"
+			"dynn_A_sbrning"
+			"dynn_Oddaverjar"
+			"dynn_Ormslev"
+			"dynn_Gnarr"
+			"dynn_Holmsen"
+			"dynn_Benkestokk"
+			"dynn_Handingmann"
+			"dynn_Aspa"
+			"dynn_Aurland"
+			"dynn_BjarkO_y"
+			"dynn_Asdal"
+			"dynn_Hudfat"
+			"dynn_HA_rd"
+			"dynn_Kane"
+			"dynn_Losna"
+			"dynn_Ringnes"
+			"dynn_Semeleng"
+			"dynn_SpA_nheim"
+			"dynn_Gjesling"
+			"dynn_Sudrheim"
+			"dynn_SkA_ld"
+			"dynn_Viss"
+			"dynn_T_rymr"
+			"dynn_T_vari"
+			"dynn_O_lfU_ss"
+			"dynn_O_rn"
+			"dynn_HvI_ti"
+			"dynn_Sterki"
+			"dynn_AuD_gi"
+			"dynn_RauD_i"
+			"dynn_Spaki"
+			"dynn_Svarti"
+			"dynn_Rammi"
+			"dynn_MjO_vi"
+			"dynn_RI_ki"
+			"dynn_Lambi"
+			"dynn_Skarfr"
+			"dynn_SkA_l"
+			"dynn_Sleggja"
+			"dynn_SmjO_r"
+			"dynn_Stjarna"
+			"dynn_StrU_gr"
+			"dynn_SA_lendingr"
+			"dynn_SU_rr"
+			"dynn_SA_lingr"
+			"dynn_Trausti"
+			"dynn_VeD_r"
+			"dynn_VA_mU_li"
+			"dynn_VA_ni"
+			"dynn_T_istill"
+			"dynn_T_jO_fi"
+			"dynn_Erik"
+			"dynn_Horn"
+			"dynn_Bjering"
+			"dynn_RothE_n"
+			"dynn_LA_ma"
+			"dynn_Rumby"
+			"dynn_DjA_kn"
+			"dynn_SvA_rd"
+			"dynn_Sturlung"
+			"dynn_SvI_nfelling"
+			"dynn_VatnsfirD_ing"
+			"dynn_Galen"
+			"dynn_Vogelius"
+			"dynn_Brock"
+			"dynn_Banner"
+			"dynn_Thott"
+			"dynn_Botner"
+			"dynn_Darre"
+			"dynn_Egge"
+			"dynn_Kusse"
+			"dynn_Grand"
+		}
+
+		male_names = {
+			Abel Anders Anund Asger Balder Benedikt BjOErn Bo Christian Christoffer Edvard Einar Erik Ernst Esben Fredrik Frej Frode Glum Gnupa Gorm Gotfred Gregers Grim Gunnar
+			Geirr GuT_mundr GuT_rO_T_r Gunnarr GandA_lfr GnU_pa Gormr GrI_mr GuT_frI_T_r Grettir
+			Haraldr Haukr Helgi Hrafn HA__kon Hallsteinn Hemingr HO_lmgeirr HrO_lfr Hrani HA_steinn HjA_lmar HrO_T_geirr HrO_D_O_lfr HrE_rekr HY_singr HalfdA_n HerjO_lfr HO_rD_r HO_gni HU_nT_jO_fr Hordaknutr
+			IngO_lfr Ingimar Ingjaldr I_var
+			Sverker SO_lvi Thomas Tjudmund Toke Tolir TorbjO_rn Tord Torbrand Torfinn Torkel Torolf Torsten Toste Totil Tyke Ulf Valdemar A_ke O_sten
+			Adalvard Rodulvard StyrbjO_rn _Odgrim Jaerpulf Stenar Brynolf
+			Sivard Steen Svend SA_mund Thorolf Thorvald Torben TorbjOErn Tord Torfinn Torgils Ture Ubbe Uffe Ulf Valdemar Valentin Vilfred Yngvar
+		}
+		female_names = {
+			Freyja Freydi_s
+			GerT_r GlO_D_ GrI_ma Gunnhildr Gurli GuD_rU_n GrY_la GyrI_D_r GyT_a
+			HafrI_D_r Halla HO_lmfrI_D_r Huld
+			Iliana Inga IngfrI_D_r IngibjO_rg IngjerT_r IngirI_D_r
+			Grethe Gudrun Gunhild Gyda Helena Ida Ingeborg Ingegerd Ingrid Johanne Jutta Karin Karoline Katarina Katrine Kirsten Klara Lise Luitgard Lykke
+			Margareta MAErta Ragnfrid Ragnhild Rikissa Saga Sara Sigrid Sofia Svanhild Thordis U_lfhildr Ylva A_sa Sanna Signe Sigrid Silje Sofie Svanhild Thyra Tora Thordis A_se
+		}
+
+		patronym_suffix_male = "dynnpat_suf_sson"
+		patronym_suffix_female = "dynnpat_suf_sdottir"
+		always_use_patronym = yes
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+
+		ethnicities = {
+			55 = caucasian_northern_blond
+			30 = caucasian_northern_ginger
+			10 = caucasian_northern_brown_hair
+			5 = caucasian_northern_dark_hair
+		}
+	}
+}

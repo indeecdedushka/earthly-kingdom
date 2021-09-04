@@ -70,6 +70,7 @@ b_tooth_god3:0 "Асфайе"
 b_tooth_god4:0 "Фосийяр"
 
 #Scientific Island
+k_immortal:0 "Имморталистское Сообщество"
 d_immortal:0 "Имморталистское Сообщество"
 c_north_council:0 "Северный Совет"
 b_north_council1:0 "Трэ'ба"
@@ -160,3 +161,176 @@ b_falsend3:0 "Гатимейз"
 c_wild_ice:0 "Дикий Лед"
 b_wild_ice1:0 "Либальт"
 b_wild_ice2:0 "Оносир"
+
+#Lands of War
+k_lands_of_war:0 "Земли Войны"
+
+d_hilt:0 "Рукоять"
+c_moira:0 "Мойра"
+b_moira:0 "Мойра"
+c_xagdronad:0 "Ксадронад"
+b_xagdronad:0 "Ксадронад"
+c_kal_guran:0 "Кель'Гуран"
+b_kal_guran:0 "Кель'Гуран"
+c_ongridoch:0 "Онгридох"
+b_ongridoch:0 "Онгридох"
+c_troz_garon:0 "Троз'Гарон"
+b_troz_garon:0 "Троз'Гарон"
+c_rig_thinnal:0 "Риг'Тинналь"
+b_rig_thinnal:0 "Риг'Тинналь"
+c_thurthranid:0 "Тхурсанид"
+b_thurthranid:0 "Тхурсанид"
+c_xaglenek:0 "Ксагленек"
+b_xaglenek:0 "Ксагленек"
+
+d_blade:0 "Клинок"
+c_trargith:0 "Траргис"
+b_trargith:0 "Траргис"
+c_sar_gallath:0 "Сар'Галлас"
+b_sar_gallath:0 "Сар'Галлас"
+c_zostrir:0 "Зострир"
+b_zostrir:0 "Зострир"
+c_orgozod:0 "Оргозод"
+b_orgozod:0 "Оргозод"
+c_vir_ganar:0 "Вир'Ганар"
+b_vir_ganar:0 "Вир'Ганар"
+c_xur_al:0 "Ксур'Аль"
+b_xur_al:0 "Ксур'Аль"
+c_galvith:0 "Галвис"
+b_galvith:0 "Галвис"
+c_garach:0 "Гарак"
+b_garach:0 "Гарак"
+
+#Wild Lands
+k_wildlands:0 "Дикие земли"
+
+d_finneland:0 "Земли за горами"
+c_lanteen:0 "Лантин"
+b_lanteen1:0 "Лакка"
+b_lanteen2:0 "Лемора"
+b_lanteen3:0 "Леона"
+
+c_etelaan:0 "Этелан"
+b_etelaan1:0 "Элаин"
+b_etelaan2:0 "Эшара"
+b_etelaan3:0 "Эовен"
+
+c_pohjoinen:0 "Пойонен"
+b_pohjoinen1:0 "Сидан"
+b_pohjoinen2:0 "Поски"
+b_pohjoinen3:0 "Пиллуа"
+
+c_itaan:0 "Итаэн"
+b_pohjoinen1:0 "Италла"
+b_pohjoinen2:0 "Итилиэн"
+b_pohjoinen3:0 "Итоан"
+
+d_eiseninsel:0 "Эйсензел" #Железный Остров
+c_eiseninsel:0 "Эйсензел"
+b_eiseninsel:0 "Эйсензел"
+
+d_albion:0 "Альбион"
+c_albes_mara:0 "Альбес Мара" #Морские Альбы
+b_albes_mara1:0 "Моргул"
+b_albes_mara2:0 "Мория"
+b_albes_mara3:0 "Минас"
+
+c_albes_beinne:0 "Альбес Беинне" #Горные Альбы
+b_albes_beinne1:0 "Бэйл"
+b_albes_beinne2:0 "Бэребор"
+b_albes_beinne3:0 "Барад-дол"
+b_albes_beinne4:0 "Бэдорас"
+b_albes_beinne5:0 "Бумбар"
+
+c_albes_iosal:0 "Альбес Йосал" #Равнинные Альбы
+b_albes_iosal1:0 "Йохан"
+b_albes_iosal2:0 "Йол-Амрот"
+b_albes_iosal3:0 "Йогрод"
+b_albes_iosal4:0 "Йорност"
+
+#Thane under the sky
+k_thane_under_sky:0 "Под небом"
+
+d_big_house:0 "Большой дом"
+c_frilskirr:0 "Фрильскирр"
+b_frilskirr1:0 "Хельгугимх"
+b_frilskirr2:0 "Рхитмир"
+c_frykneskr:0 "Фринескр"
+b_frykneskr1:0 "Брольг"
+b_frykneskr2:0 "Рунрейк"
+b_frykneskr3:0 "Риснорр"
+c_sodelig:0 "Соделиг"
+b_sodelig:0 "Соделиг"
+
+d_dragon_spine:0 "Драконий хребет"
+c_morgywen:0 "Моргивен"
+b_morgywen1:0 "Скир"
+b_morgywen2:0 "Рирганль"
+c_stoesgrak:0 "Стисграк"
+b_stoesgrak1:0 "Вакнейр"
+b_stoesgrak2:0 "Совальд"
+c_skurgill:0 "Скаргилл"
+b_skurgill1:0 "Фрель"
+b_skurgill2:0 "Совальд"
+c_skignaronl:0 "Скигнарон"
+b_skignaronl:0 "Скигнарон"
+c_bralgir:0 "Бральгир"
+b_bralgir:0 "Бральгир"
+
+d_diamond_tops:0 "Алмазные вершины"
+c_tirreskr:0 "Тиррескр"
+b_tirreskr1:0 "Баскр"
+b_tirreskr2:0 "Броль"
+c_murkolloskr:0 "Мурколлоскр"
+b_murkolloskr:0 "Мурколлоскр"
+c_rhilskunal:0 "Рхильскуналь"
+b_rhilskunal:0 "Рхильскуналь"
+
+#Golden towns
+
+k_golden_towns:0 "Золотые города"
+
+d_south_company:0 "Южная комания"
+c_basinbrook:0 "Бэйзинбрук"
+b_basinbrook:0 "Бэйзинбрук"
+c_greenhill:0 "Гринхилл"
+b_frykneskr1:0 "Гринхилл"
+
+d_north_company:0 "Северная комания"
+c_beachmond:0 "Бичмонд"
+b_beachmond:0 "Бичмонд"
+c_midhorn:0 "Мидхорн"
+b_frykneskr1:0 "Мидхорн"
+c_freygarde:0 "Фрейгард"
+b_freygarde:0 "Фрейгард"
+
+#Polices 
+k_kepeselis:0 "Кепеселис"
+d_kepeselis:0 "Кепеселис"
+c_kepeselis:0 "Кепеселис"
+d_kepeselis:0 "Кепеселис"
+
+k_procida:0 "Процида"
+d_procida:0 "Процида"
+c_procida:0 "Процида"
+d_procida:0 "Процида"
+
+k_pandeos:0 "Пандеос"
+d_pandeos:0 "Пандеос"
+c_pandeos:0 "Пандеос"
+d_pandeos:0 "Пандеос"
+
+k_ptelium:0 "Птелиум"
+d_ptelium:0 "Птелиум"
+c_ptelium:0 "Птелиум"
+d_ptelium:0 "Птелиум"
+
+k_solerna:0 "Солерна"
+d_solerna:0 "Солерна"
+c_solerna:0 "Солерна"
+d_solerna:0 "Солерна"
+
+k_orontos:0 "Оронтос"
+d_orontos:0 "Оронтос"
+c_orontos:0 "Оронтос"
+d_orontos:0 "Оронтос"

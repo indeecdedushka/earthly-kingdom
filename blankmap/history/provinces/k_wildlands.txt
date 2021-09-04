@@ -1,0 +1,124 @@
+﻿#k_wildlands
+##d_finnaeland
+###c_lanteen
+90 = {
+	culture = finnae
+	religion = spirits_of_nature
+	holding = tribal_holding
+}
+91 = {
+	holding = tribal_holding
+}
+
+95 = {
+	holding = tribal_holding
+}
+###c_etelaan
+92 = {
+	culture = finnae
+	religion = spirits_of_nature
+	holding = tribal_holding
+}
+
+93 = {
+	holding = tribal_holding
+}
+
+94 = {
+	holding = tribal_holding
+}
+###c_pohjoinen
+96 = {
+	culture = finnae
+	religion = spirits_of_nature
+	holding = tribal_holding
+}
+
+97 = {
+	holding = tribal_holding
+}
+
+98 = {
+	holding = tribal_holding
+}
+###c_itaan
+99 = {
+	culture = finnae
+	religion = spirits_of_nature
+	holding = tribal_holding
+}
+
+100 = {
+	holding = tribal_holding
+}
+
+101 = {
+	holding = tribal_holding
+}
+
+
+##d_eiseninsel
+#c_eiseninsel
+102 = {
+	culture = eisen
+	religion = testism
+	holding = tribal_holding
+}
+
+
+##d_albion
+#c_albes_mara
+103 = {
+	culture = alba
+	religion = testism
+	holding = tribal_holding
+}
+
+104 = {
+	holding = tribal_holding
+}
+
+105 = {
+	holding = tribal_holding
+}
+#c_albes_beinne
+106 = {
+	culture = alba
+	religion = testism
+	holding = tribal_holding
+}
+
+107 = {
+	holding = tribal_holding
+}
+
+108 = {
+	holding = tribal_holding
+}
+
+109 = {
+	holding = tribal_holding
+}
+
+110 = {
+	holding = tribal_holding
+}
+
+#c_albes_iosal
+111 = {
+	culture = alba
+	religion = testism
+	holding = tribal_holding
+}
+
+112 = {
+	holding = tribal_holding
+}
+
+113 = {
+	holding = tribal_holding
+}
+
+114 = {
+	holding = tribal_holding
+}

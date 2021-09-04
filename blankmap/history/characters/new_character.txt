@@ -1,0 +1,13 @@
+﻿500200 = {
+name "Durak"
+religion = zoroastrianism_religion
+culture = afghan
+martial = 20
+diplomacy = 30
+trait = just 
+trait = impatient
+841.1.1. = {
+birth = yes 
+}
+dna = durak 
+}

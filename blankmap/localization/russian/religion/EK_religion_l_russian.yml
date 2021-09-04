@@ -1,0 +1,55 @@
+﻿l_russian:
+
+ ###Языческие религии
+
+ ##Религия Финнаэ
+ finnae_spirits_religion:1 "Духи Финнаэ"
+ finnae_spirits_religion_adj:1 "Финнаэ"
+ finnae_spirits_religion_adherent:1 "Финнаэ"
+ finnae_spirits_religion_adherent_plural:1 "Финнаэ"
+ finnae_spirits_religion_desc:1 "Народ Финнаэ с давних времен верят в разнообразных духов природы.По их верования,лишь избранные могут общаться с духами,и таковые считаются мудрейшими из людей."
+
+ #
+ spirits_of_nature:0 "Духи Финнаэ"
+ spirits_of_nature_adj:0 "Финнаэ"
+ spirits_of_nature_adherent:0 "Финнаэ"
+ spirits_of_nature_adherent_plural:0 "Финнаэ"
+
+
+
+
+ ###Вера в Мертвого Бога
+
+
+ ##Зубцы
+ tooths_religion:1 ""
+ tooths_religion_adj:1 ""
+ tooths_religion_adherent:1 ""
+ tooths_religion_adherent_plural:1 ""
+ tooths_religion_desc:1 ""
+
+ #Собиратели
+ collectors:0 ""
+ collectors_adj:0 ""
+ collectors_adherent:0 ""
+ collectors_adherent_plural:0 ""
+
+
+
+
+
+ ##Ждущие/Ожидающие
+ expectation_religion:1 ""
+ expectation_religion_adj:1 ""
+ expectation_religion_adherent:1 ""
+ expectation_religion_adherent_plural:1 ""
+ expectation_religion_desc:1 ""
+
+ #Ждущие Видаййи
+ vidayah_expectation:0 ""
+ vidayah_expectation_adj:0 ""
+ vidayah_expectation_adherent:0 ""
+ vidayah_expectation_adherent_plural:0 ""
+
+
+ 

@@ -1,0 +1,38 @@
+﻿# tenet_spirit_speakers = {
+# 	icon = core_tenet_bhakti
+
+# 	piety_cost = faith_tenet_cost_mid
+
+# 	is_shown = {
+# 		religion_tag = finnae_spirits_religion
+# 	}
+
+# 	parameters = {
+# 		spirit_speakers_birthright_active = yes
+# 	}
+
+# }
+
+# tenet_spirits = {
+# 	name = {
+# 		first_valid = {
+# 			# triggered_desc = {
+# 			# 	trigger = { religion_tag = hinduism_religion }
+# 			# 	desc = tenet_bhakti_name
+# 			# }
+# 			# desc = tenet_bhakti_patron_god_name
+# 			desc = tenet_spirits_name
+# 		}
+# 	}
+# 	icon = core_tenet_bhakti
+
+#  	piety_cost = faith_tenet_cost_mid
+
+# 	is_shown = {
+# 		religion_tag = finnae_spirits_religion
+# 	}
+
+# 	parameters = {
+# 		personal_spirit_active = yes
+# 	}
+# }

@@ -31,6 +31,8 @@ seasons = "seasons.txt"
 # Can be colored by whoever owns the most of the province's neighbours.
 # Blocks unit movement.
 
+impassable_mountains = LIST { 135 136 }
+
 ############
 # WASTELAND
 ############

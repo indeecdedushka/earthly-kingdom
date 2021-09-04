@@ -1,0 +1,132 @@
+﻿finnae_group = {
+	graphical_cultures = {
+		balto_finnic_group_coa_gfx
+		steppe_coa_gfx
+		western_coa_gfx
+		western_building_gfx
+		northern_clothing_gfx
+		northern_unit_gfx
+	}
+
+	finnae = {
+		color = { 0.1 0.6 0.6 }
+
+     	cadet_dynasty_names = {
+     		"dynn_Rova"
+     		"dynn_Suensaari"
+     		"dynn_Tammpere"
+     		"dynn_Nieminen"
+     		"dynn_Lalli"
+     		"dynn_Hannus"
+     		"dynn_Jaakkola"
+     		"dynn_Ilkka"
+     		"dynn_Isotalo"
+     		"dynn_Lauri"
+     		"dynn_Tuure"
+     		"dynn_Maunu"
+     		"dynn_Akseli"
+     		"dynn_Lahtinen"
+     		"dynn_Sepp"
+     		"dynn_Laine"
+     		"dynn_JA_rvinen"
+     		"dynn_Anttonen"
+     		"dynn_Ahkebeaivi"
+			"dynn_Ahkemiella"
+			"dynn_GA_ivvaS_"
+			"dynn_Varakid"
+			"dynn_Sarakid"
+			"dynn_Hasabid"
+			"dynn_Tatvid"
+			"dynn_Yurakid"
+			"dynn_Jio"
+			"dynn_Simo"
+			"dynn_Kuni"
+			"dynn_Rahna"
+			"dynn_Sochioch"
+			"dynn_Jochmoch"
+			"dynn_Avioware"
+			"dynn_Enare"
+			"dynn_Enaraby"
+			"dynn_Kimi"
+			"dynn_Suenekelle"
+			"dynn_Warager"
+			"dynn_Teno"
+			"dynn_Maggeroe"
+			"dynn_Kittilaby"
+			"dynn_Sambeaoby"
+			"dynn_Pajersvi"
+			"dynn_Kielit"
+			"dynn_Kemeloe"
+     		"dynn_Koskinen"
+     		"dynn_Sarvilahti"
+     		"dynn_Lankinen"
+     		"dynn_Bottii"
+     		"dynn_Lonooen"
+     		"dynn_Markonen"
+     	}
+     
+     	dynasty_names = {
+     		"dynn_Rova"
+     		"dynn_Suensaari"
+     		"dynn_Tammpere"
+     		"dynn_Nieminen"
+     		"dynn_Lalli"
+     		"dynn_Hannus"
+     		"dynn_Jaakkola"
+     		"dynn_Ilkka"
+     		"dynn_Isotalo"
+     		"dynn_Lauri"
+     		"dynn_Tuure"
+     		"dynn_Maunu"
+     		"dynn_Akseli"
+     		"dynn_Lahtinen"
+     		"dynn_Hasabid"
+			"dynn_Tatvid"
+			"dynn_Yurakid"
+			"dynn_Jio"
+			"dynn_Simo"
+			"dynn_Kuni"
+			"dynn_Rahna"
+			"dynn_Sochioch"
+			"dynn_Jochmoch"
+			"dynn_Avioware"
+			"dynn_Enare"
+			"dynn_Enaraby"
+			"dynn_Kimi"
+			"dynn_Suenekelle"
+			"dynn_Warager"
+			"dynn_Teno"
+			"dynn_Maggeroe"
+     		"dynn_MA_kelA_"
+     		"dynn_Koskinen"
+     		"dynn_Sarvilahti"
+     		"dynn_Lankinen"
+     		"dynn_Bottii"
+     		"dynn_Lonooen"
+     		"dynn_Markonen"
+     	}
+     
+     	male_names = {
+     		Aatos Ahma Aimo Armas Arvo Asikko Ensio Haapa Hannu Havu Hintsa Ihanti Into Jalo Jurva Kaleva Kalevi Kettu Kolli Lalli Lauri Lemetti
+     		Mielitty Miemo Mikko Oiva Onni Otso Pyry PA_iviO_ Pentti Reko Sampo Satajalka Satatieto Seppo Susi Tapani Terho Toivo Ukko Uoti Urho VA_inO_
+     		Valta Valto Veli Vesa Voitto Erkki Kaarle Johannes Risto Olavi Petri Henri YrjO_
+     		Valteri Riku Matti Jaakoppi Taisto Paavo Aatso Ahvo Aarto Asko Tuokko Rieti
+     		Kauro Kuuti Pekko Soini Tuure Turo Tommo Tohmas A_ggi A_igesA_rri A_ilu A_mmot A_ra A_rrajuoksa A_sllat E_oavvA_ Ahkemiella Algebaeivi Baeivi Baeivvet Biejan BijA_s Bilzi DA_vgon DuttA_ GA_ivvas
+     		GA_ktu Henes JA_rre Jeansa Juvven LA_gon LA_vrrohas LeammA_ Mellet Mihka Mohkku Mokci NA_hkol NA_innas Njulgu OavA_n Orddot RA_stos Riibma Ruigi
+     		SA_rra Speaidna Viggu
+     	}
+     	female_names = {
+     		Aamu Aino HellA_ Helmi Ilta Kaarina KA_py Kielo Kukka Lauha Lempi Mahla Maija Marja Mesi Metta PA_ivA_ PA_ivi Pihla Pilvi Rauha Sisko Suoma
+     		Taimi Terhi Titti Tuija Tuovi Tuuli Tuulikki Tyyne Tyyni Vanamo Venla Mielikki Hertta Loviisa Inkeri Ilmatar Irene Ilona Kristiina
+     		Elisabet Sohvi Auni Liekko Kivutar Lemmikki Lyylikki Salme Talvikki Tuulitar A_idnA_ A_lgen A_llet E_uvje BiellA_ BiergA_ BuohttA_ DuojA_ GealA_ GierA_ Giste JuoksA_hkkA_ Leandu MA_idna NA_sti NanA_ NjA_ves OajA_ SA_rA_hkkA_ SealggA_
+     		SearA_ SoabA_ SojA_ SuoinnA_ Suonjar UksA_hkkA_
+     	}
+     	dynasty_of_location_prefix = "dynnp_of"
+     
+     	ethnicities = {
+     		40 = circumpolar_brown_hair
+     		30 = circumpolar_blonde_hair
+     		30 = slavic_dark_hair
+     	}
+	}
+}

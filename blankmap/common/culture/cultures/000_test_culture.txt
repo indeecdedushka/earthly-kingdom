@@ -1,0 +1,50 @@
+﻿island_culture_group = { 
+	graphical_cultures = {
+		african_building_gfx
+		west_african_group_coa_gfx
+		mena_building_gfx
+		african_clothing_gfx
+		sub_sahran_unit_gfx
+	}
+	
+	turtle = {
+		color = rgb { 148 0 211 }
+		graphical_cultures = {
+			welsh_coa_gfx
+		}
+
+
+
+		
+		dynasty_of_location_prefix = ""
+		
+		
+		patronym_prefix_male = "dynnpat_pre_ap"
+		patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+		patronym_prefix_female = "dynnpat_pre_ferch"	
+		always_use_patronym = yes
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+		ethnicities = {
+			5 = caucasian_blond
+			30 = caucasian_ginger
+			35 = caucasian_brown_hair
+			30 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_lawgochs_followers" }
+			{ name = "mercenary_company_band_of_horned_welshmen" }
+		}
+	}
+}
+
