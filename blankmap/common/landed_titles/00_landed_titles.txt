@@ -1379,4 +1379,19 @@ k_orontos = {
         }
 }
 
+#Throne
+        d_throne = {
+        color = { 102 2 60 }
+            c_throne = {
+                color = { 102 2 60 }
+                color2 = { 255 255 255 }
+
+                b_throne = {
+                    color = { 102 2 60 }
+                    color2 = { 255 255 255 }
+                    province = 148
+                }
+            }
+            }
+
 }

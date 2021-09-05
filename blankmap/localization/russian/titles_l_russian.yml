@@ -334,3 +334,8 @@ k_orontos:0 "Оронтос"
 d_orontos:0 "Оронтос"
 c_orontos:0 "Оронтос"
 d_orontos:0 "Оронтос"
+
+#Throne
+d_throne:0 "Трон Бога"
+c_throne:0 "Трон Бога"
+b_throne:0 "Трон Бога"
